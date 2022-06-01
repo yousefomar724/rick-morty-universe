@@ -1,0 +1,9 @@
+.btn a {
+  color: white !important;
+  text-decoration: none;
+}
+@media (max-width: 500px) {
+  .btn {
+    display: none;
+  }
+}
